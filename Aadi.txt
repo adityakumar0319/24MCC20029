@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is implementation of ex-2
+=======
+This is an updated line in new24MCC20029 branch
+>>>>>>> new24MCC20029
